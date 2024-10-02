@@ -19,7 +19,7 @@ const Body = () => {
     <div>
         <RouterProvider router={appRouter}/>
     </div>
-  )
-}
+  );
+};
 
-export default Body
+export default Body;
